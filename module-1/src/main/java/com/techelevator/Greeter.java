@@ -7,6 +7,7 @@ public class Greeter {
     private String greeting;
     private int year;
     private String firstName;
+    private double oneLastChange;
 
     public Greeter() {
         this.greeting = "Hello World!";
@@ -19,4 +20,9 @@ public class Greeter {
     public String getGreeting() {
         return this.greeting;
     }
+
+    public void testMethod(){
+        System.out.println("aaaaaagggggghhhhhhhh");
+    }
+
 }
