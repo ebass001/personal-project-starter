@@ -5,6 +5,7 @@ import java.time.LocalTime;
 
 public class Greeter {
     private String greeting;
+    private int year;
 
     public Greeter() {
         this.greeting = "Hello World!";
