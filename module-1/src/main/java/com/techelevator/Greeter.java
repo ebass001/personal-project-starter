@@ -19,4 +19,8 @@ public class Greeter {
     public String getGreeting() {
         return this.greeting;
     }
+
+    public void testMethod(){
+        System.out.println("aaaaaagggggghhhhhhhh");
+    }
 }
