@@ -6,7 +6,7 @@ import java.time.LocalTime;
 public class Greeter {
     private String greeting;
     private int year;
-    private String person;
+    private String firstName;
     private double oneLastChange;
 
     public Greeter() {
