@@ -22,3 +22,4 @@
 - Initial git configuration: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 - Branching https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 - If you get this "error" "Please enter a commit message to explain why this merge is necessary" https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially
+### anyone can add more
